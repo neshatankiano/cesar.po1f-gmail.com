@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="EL TRECE OP 2">
+    <display-name lang="es">EL TRECE OP 2</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20200328000000 -0300" stop="20200328010000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Las mil y una noches</title>
+    <title lang="xx">Binbir Gece</title>
+    <desc lang="es">Cuando finalmente aparece un donante de médula para su hijo, Sherezade acude a su jefe para pedirle ayuda por el alto costo del tratamiento, quien accede a ayudarla con la condición de que ella pase una noche con él.(n)</desc>
+    <credits>
+      <director>Kudret Sabanci</director>
+      <actor>Bergüzar Korel</actor>
+      <actor>Halit Ergenc</actor>
+      <actor>Tardu Flordun</actor>
+      <actor>Ceyda Düvenci</actor>
+      <actor>Metin Çekmez</actor>
+      <actor>Tomris Incer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4247597.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328010000 -0300" stop="20200328011500 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4631431.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328011500 -0300" stop="20200328090000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2084650.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328090000 -0300" stop="20200328091500 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Gaturro, la serie</title>
+    <desc lang="es">Divertidas historias que desvelan a los nenes, Gaturro es un antihéroe que busca resolver conflictos, aunque pocas veces las cosas le salen como él pretende. Romántico incorregible, no pierde oportunidad de seducir a su amor imposible.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4185552.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328091500 -0300" stop="20200328094500 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Panam y circo</title>
+    <desc lang="es">El mundo infantil en el marco de un universo en el cual la fantasía es la premisa. Una propuesta en la que la música, el color y la alegría son las apuestas para lograr que los pequeños adquieran conocimientos a la vez que se entretienen.(n)</desc>
+    <date>2012</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/303141.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328094500 -0300" stop="20200328103000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Piñón en familia</title>
+    <desc lang="es">Piñón Fijo es el encargado de alegrarte las mañanas. Con su simpatía y con la magia de sus canciones, este divertido payaso te invita a que lo acompañes y te animes tú también a cantar.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7561892.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328103000 -0300" stop="20200328113000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Plan TV</title>
+    <desc lang="es">Un ciclo dedicado a resaltar momentos desopilantes de la televisión.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9419558.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328113000 -0300" stop="20200328130000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Cut Bank</title>
+    <desc lang="es">Dwayne McClaren es un joven que sueña con irse de la pequeña población de Cut Bank, pero su plan para marcharse se complica por una serie de eventos que involucran al joven en una investigación policial que lleva a cabo el Sheriff Vogel.(n)</desc>
+    <credits>
+      <director>Matt Shakman</director>
+      <actor>Oliver Platt</actor>
+      <actor>Bruce Dern</actor>
+      <actor>John Malkovich</actor>
+      <actor>Billy Bob Thornton</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Sonya Salomaa</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1934614.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20200328130000 -0300" stop="20200328151500 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Punto límite</title>
+    <category lang="es">Película</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10213221.jpg" />
+  </programme>
+  <programme start="20200328151500 -0300" stop="20200328170000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Sígueme el rollo</title>
+    <title lang="xx">Just Go with It</title>
+    <desc lang="es">Danny desea conquistar a Palmer, una chica mucho más joven que él. Para despertar su interés, contrata a su asistente, Katherine, para demostrarle que su amor por ella es tal que está a punto de divorciarse de su mujer.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Allen Covert</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Kevin Nealon</actor>
+      <actor>Rachel Dratch</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">C.Romántica</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6309250.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328170000 -0300" stop="20200328191500 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Los indestructibles 3</title>
+    <title lang="xx">The Expendables 3</title>
+    <desc lang="es">Los Mercenarios deberán atrapar a Stonebanks, el otro fundador del grupo que incursionó en el mundo del tráfico de armas. Barney y el equipo tendrán que enfrentarlo mientras se debaten entre las viejas y las nuevas tácticas de combate.(n)</desc>
+    <credits>
+      <director>Patrick Hughes</director>
+      <actor>Robert Davi</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Mel Gibson</actor>
+      <actor>Sylvester Stallone</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8348285.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328191500 -0300" stop="20200328210000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">Encuentro explosivo</title>
+    <category lang="es">Película</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10765830.jpg" />
+  </programme>
+  <programme start="20200328210000 -0300" stop="20200328230000 -0300" channel="EL TRECE OP 2">
+    <title lang="es">La noche de Mirtha</title>
+    <desc lang="es">Juana Viale, quien ya fue conductora del programa en otras ocasiones, se hará cargo de la ya clásica cena, junto con nuevos e interesantes invitados.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11184578.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+</tv>
