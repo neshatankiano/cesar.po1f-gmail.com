@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="C5N">
+    <display-name lang="es">C5N</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20200328000000 -0300" stop="20200328010000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
+    <desc lang="es">Encuentra tu paz interior a través de la palabra de Claudio María Domínguez, quien se referirá a la existencia de Dios, el ego, el conocimiento, entre otros temas relacionados con la espiritualidad.(n)</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8751744.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328010000 -0300" stop="20200328030000 -0300" channel="C5N">
+    <title lang="es">Debate abierto</title>
+    <desc lang="es">Sin operaciones, sin mentiras, sin fake news. La realidad hoy nos pide un debate abierto.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9633303.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328030000 -0300" stop="20200328040000 -0300" channel="C5N">
+    <title lang="es">Esto recién empieza</title>
+    <desc lang="es">Un ciclo con la mirada de la nueva generación de periodistas dedicados a la política y la economía. Los conductores realizan un raconto de los temas del día desde una mirada periodística descontracturada.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Periodístico</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10464943.jpg" />
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20200328040000 -0300" stop="20200328050000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
+    <desc lang="es">Encuentra tu paz interior a través de la palabra de Claudio María Domínguez, quien se referirá a la existencia de Dios, el ego, el conocimiento, entre otros temas relacionados con la espiritualidad.(n)</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8751744.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328050000 -0300" stop="20200328053000 -0300" channel="C5N">
+    <title lang="es">Right Now</title>
+    <desc lang="es">Programa que cuenta con entrevistas a distintos artistas, segmentos de moda, gastronomía, fitness y espectáculos.(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6425145.jpg" />
+  </programme>
+  <programme start="20200328053000 -0300" stop="20200328063000 -0300" channel="C5N">
+    <title lang="es">El expediente</title>
+    <desc lang="es">Programa que investiga los casos policiales más resonantes y realiza un seguimiento minucioso de los criminales más buscados del país.(n)</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10465660.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328063000 -0300" stop="20200328100000 -0300" channel="C5N">
+    <title lang="es">Bien de sábado</title>
+    <desc lang="es">Acompáñanos y entérate de los últimos acontecimientos relacionados al deporte, los espectáculos, la economía, ecología, educación, entre muchos otros ámbitos, de una manera totalmente diferente y entretenida.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Periodístico</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10466093.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328100000 -0300" stop="20200328130000 -0300" channel="C5N">
+    <title lang="es">Argentina en vivo</title>
+    <desc lang="es">Actualidad, información, móviles al instante en el lugar exacto en donde sucede la noticia.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6362347.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328130000 -0300" stop="20200328143000 -0300" channel="C5N">
+    <title lang="es">Tarde Xtra</title>
+    <desc lang="es">De una forma innovadora, Agustina Casanova te presenta toda la información que tenés que saber en relación a la actualidad, la música, la tecnología y los espectáculos.(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6424687.jpg" />
+  </programme>
+  <programme start="20200328143000 -0300" stop="20200328150000 -0300" channel="C5N">
+    <title lang="es">Nara que ver</title>
+    <desc lang="es">Ciclo de entrevistas a reconocidos artistas del mundo del espectáculo.(n)</desc>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10466766.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328150000 -0300" stop="20200328153000 -0300" channel="C5N">
+    <title lang="es">Alerta verde</title>
+    <desc lang="es">Un espacio dedicado a generar conciencia, informar y actuar en defensa del ambiente, porque todo ser vivo tiene derecho a ser protegido.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Ecología</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6424881.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328153000 -0300" stop="20200328160000 -0300" channel="C5N">
+    <title lang="es">Chicas pochocleras</title>
+    <desc lang="es">Un ciclo con entrevistas a actores consagrados, viajes, recomendaciones de cine y series, invitados y mucho más.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Cine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8876807.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200328160000 -0300" stop="20200328210000 -0300" channel="C5N">
+    <title lang="es">Minuto a minuto</title>
+    <desc lang="es">Un espacio renovado que ofrece el repaso por los hechos que han transcendido internacionalmente y en la Nación. La información de los acontecimientos más destacados hasta el momento.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7856175.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328210000 -0300" stop="20200328230000 -0300" channel="C5N">
+    <title lang="es">Sobredosis de TV</title>
+    <desc lang="es">Roberto Funes Ugarte con su sello característico, repasará las noticias más importantes de la semana junto a la periodista Luciana Rubinska, a puro archivo recargado y mirada crítica.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Periodístico</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10357744.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200328230000 -0300" stop="20200328233000 -0300" channel="C5N">
+    <title lang="es">Right Now</title>
+    <desc lang="es">Programa que cuenta con entrevistas a distintos artistas, segmentos de moda, gastronomía, fitness y espectáculos.(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6425145.jpg" />
+  </programme>
+</tv>
